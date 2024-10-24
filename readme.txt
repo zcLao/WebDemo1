@@ -1,1 +1,1 @@
-This is a project for learning how to build a web.
+This is a project for learning how to build a simple web.
